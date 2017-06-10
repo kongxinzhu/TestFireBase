@@ -27,6 +27,8 @@ public class MainActivity extends AppCompatActivity {
     private ChildEventListener mChildEventListener;
 //    private UsersChatAdapter mUsersChatAdapter;
 
+    //for testing
+    private ChildEventListener hahahaha;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
