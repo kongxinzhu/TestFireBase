@@ -29,6 +29,8 @@ public class MainActivity extends AppCompatActivity {
 
     //for testing
     private ChildEventListener hahahaha;
+    // for testing 2 xinzhu
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
