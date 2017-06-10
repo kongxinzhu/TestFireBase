@@ -1,0 +1,22 @@
+<LinearLayout
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <Button
+        android:id="@+id/bt_goProfile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Go Profile"
+        android:onClick="goProfile"/>
+
+    <Button
+        android:id="@+id/bt_logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:onClick="logOut"/>
+
+</LinearLayout>
